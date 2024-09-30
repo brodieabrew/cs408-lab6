@@ -1,24 +1,17 @@
-# Web Dev Starter Code
+# CS408 Lab 6
 
 ## Overview
 
-TODO: Write a project description
+This project makes use of CSS styling options to influence the layout of the website. Many of the files are borrowed from the MDN Learning Area repository on GitHub linked below.
+
+## Usage
+From within the project directory you can open the project using:
+
+`code .`
+
+Open "index.html" from the file explorer window and use the
+Visual Studio Code command palette (F1) to run the Live Preview Server.
 
 ## Sources and Credits
-
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+* [MDN](https://developer.mozilla.org/en-US/)
+* [MDN Learning Area](https://github.com/mdn/learning-area/tree/main/css/css-layout/fundamental-layout-comprehension)
