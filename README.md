@@ -13,5 +13,10 @@ Open "index.html" from the file explorer window and use the
 Visual Studio Code command palette (F1) to run the Live Preview Server.
 
 ## Sources and Credits
-* [MDN](https://developer.mozilla.org/en-US/)
+* MDN
+    * [Introduction to CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
+    * [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+    * [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
+    * [Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
+    * [Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
 * [MDN Learning Area](https://github.com/mdn/learning-area/tree/main/css/css-layout/fundamental-layout-comprehension)
